@@ -123,7 +123,7 @@ export function SideBar(props: { className?: string }) {
           ChampionGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Powered by UESTC likp
+          Powered by UESTC likunpeng
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
