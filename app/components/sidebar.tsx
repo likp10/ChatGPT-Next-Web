@@ -123,6 +123,7 @@ export function SideBar(props: { className?: string }) {
           Best ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
+          Official GPT of MoXianBao 
           Powered by likp
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
